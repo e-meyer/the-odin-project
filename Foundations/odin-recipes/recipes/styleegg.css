@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.description {
+    background-color: #d1eb8c;
+    border-radius: 5px;
+    
+}
+
+.description h3, li, p {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.description h3 {
+    font-size: 30px;
+}
