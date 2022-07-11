@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>JS Fundamentals</title>
+    </head>
+    <body>
+        <script>
+            let string = prompt(
+                'Give me a string and I will capitalize only the first letter of it'
+            );
+
+            let newString = capitalize(string);
+
+            function capitalize(str) {
+                str = str.toLowerCase();
+                let firstLetter = str.toUpperCase()[0];
+                str = str.replace(str.charAt(0), '');
+                return firstLetter + str;
+            }
+
+            console.log(newString);
+        </script>
+    </body>
+</html>
