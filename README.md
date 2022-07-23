@@ -1,4 +1,4 @@
-# :zap: TheOdinProject
+# :zap: **TheOdinProject**
 
 ![TheOdinProject Logo](https://github.com/e-meyer/the-odin-project/blob/main/Foundations/images/the-odin-project-logo.png)
 
