@@ -1,6 +1,6 @@
 # TheOdinProject
 
-![TheOdinProject Logo]("https://github.com/e-meyer/the-odin-project/blob/main/Foundations/images/the-odin-project-logo.png")
+![TheOdinProject Logo](https://github.com/e-meyer/the-odin-project/blob/main/Foundations/images/the-odin-project-logo.png)
 
 > The Odin Project is an open source online curriculum for learning web development. They help people to pick up the skills they need to get hired as web developers.
 
