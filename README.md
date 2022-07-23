@@ -10,7 +10,7 @@ The Odin Project is an open source online curriculum for learning web developmen
 
 The goal of The Odin Project is to provide a complete path for students to go from zero programming knowledge to employed as web developers while working with other students and picking up the skills to become self sufficient along the way.
 
-**But for my personal goal, I would say it is to become a good web developer. Learning the skills needed to achieve it is most likely the biggest part in the process.**
+**But for my personal goal, I would say it is to become a good web developer and networking along the way. Learning the skills needed to achieve it is most likely the biggest part in the process.**
 
 ## :computer: Technologies
 
