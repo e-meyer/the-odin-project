@@ -4,4 +4,4 @@ These JavaScript exercises are intended to complement the JavaScript content on 
 
 ## Description
 
-Every exercise in this folder is already solved, I'm going to be updating it when needed to add some more exercises. There may be some bonus exercises that I find on the internet and find interesting to share here.
+Every exercise in this folder is already solved. I'm going to be updating the repository whenever it's needed. There may be some extra exercises, not related to TOP, that I find on the web and that may look interesting to share here.
